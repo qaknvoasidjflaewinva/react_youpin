@@ -1,0 +1,221 @@
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+.text-scroll-container {
+  display: flex;
+  justify-content: center;
+  font-size: 13px;
+  color: #9f8052;
+  overflow: hidden;
+}
+
+.text-scroll-container .title-container {
+  background-color: #fff;
+}
+
+.text-scroll-container .marquee_box {
+  width: 100%;
+  height: 38px;
+  overflow: hidden;
+  word-break: keep-all;
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+}
+
+.text-scroll-container .marquee_box .icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 2px;
+}
+
+.text-scroll-container .marquee_box p {
+  display: inline-block;
+}
+
+.text-scroll-container .marquee_box .sc-dlfnuX .item {
+  margin-right: 20px;
+  color: #9f8052;
+}
+
+@keyframes scrollItem {
+  from {
+    left: 1120px;
+  }
+  to {
+    left: -750px;
+  }
+}
+
+.text-scroll-container .marquee_box .lmBxwT {
+  position: absolute;
+  width: auto;
+  text-overflow: unset;
+  overflow: visible;
+  animation-timing-function: linear;
+  animation-name: scrollItem;
+  animation-duration: 40s;
+  animation-direction: normal;
+  animation-iteration-count: infinite;
+  animation-delay: 0s;
+}
+
+.text-scroll-container .text-scroll {
+  max-width: 1080px;
+  position: relative;
+}
+
+.text-scroll-container .title-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  background-color: #fff;
+  z-index: 1000;
+}
+
+.clear-f::before {
+  content: " ";
+  display: table;
+  clear: both;
+}
+
+.clear-f::after {
+  content: " ";
+  display: table;
+  clear: both;
+}
+
+.m-header {
+  position: relative;
+  height: 51px;
+  z-index: 101;
+  padding-top: 20px;
+  margin-bottom: 5px;
+  background-color: #fff;
+}
+
+.m-header .m-header-fixed {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+  padding-top: 0;
+  border-bottom: 1px solid #eee;
+  background-color: #fff;
+}
+
+.m-header .container {
+  width: 1080px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.m-header .container .m-header-top {
+  position: relative;
+  padding-right: 40px;
+  z-index: 9;
+}
+
+.m-header .container .m-header-top .m-logo {
+  float: left;
+  width: 123px;
+  height: 51px;
+  background: url(//cdn.cnbj1.fds.api.mi-img.com/youpin-pc/production/YouPin_PC/static3/media/logo.8cef1e8f.png) 50% no-repeat;
+  background-size: 100%;
+}
+
+.m-header .container .m-header-top .nav-part {
+  float: left;
+  margin-left: 10px;
+  margin-right: 70px;
+  width: 60px;
+  height: 51px;
+  line-height: 51px;
+}
+
+.m-header .container .m-header-top .tab-list {
+  float: left;
+  width: 420px;
+  overflow: hidden;
+}
+
+.m-header .container .m-header-top .tab-list li.tab-item {
+  float: left;
+  margin-right: 32px;
+  height: 51px;
+  line-height: 57px;
+  font-size: 18px;
+  color: #666;
+  transition: color .2s ease;
+  cursor: pointer;
+}
+
+.m-header .container .m-header-top .m-card-wrap {
+  position: absolute;
+  right: 6px;
+  top: 18px;
+}
+
+.m-header .container .m-header-top .m-card-wrap .m-card-mini {
+  position: relative;
+  width: 30px;
+}
+
+.m-header .container .m-header-top .m-card-wrap .m-card-mini:hover svg {
+  fill: #B68639;
+}
+
+.m-header .container .m-header-top .m-search {
+  float: right;
+  width: 296px;
+}
+
+.m-header .container .m-header-top .m-search .search-form {
+  position: relative;
+  width: 246px;
+  padding-left: 35px;
+  padding-top: 9px;
+  height: 32px;
+  border-bottom: 1px solid #e7e7e7;
+  transition: all .3s;
+}
+
+.m-header .container .m-header-top .m-search .search-form .search-icon {
+  position: absolute;
+  left: 0;
+  top: 14px;
+  display: block;
+  z-index: 2;
+  text-align: center;
+  outline: 0;
+  font-size: 14px;
+}
+
+.m-header .container .m-header-top .m-search .search-form .search-icon:hover svg {
+  fill: #9f8052;
+}
+
+.m-header .container .m-header-top .m-search .search-form .search-input-con {
+  z-index: 1;
+  width: 245px;
+  height: 32px;
+  line-height: 32px;
+}
+
+.m-header .container .m-header-top .m-search .search-form .search-input-con input {
+  width: 100%;
+  border: none;
+  color: #333;
+  font-size: 14px;
+  outline: 0;
+  transition: all .2s;
+}
+
+.header-class {
+  padding-top: 0;
+}

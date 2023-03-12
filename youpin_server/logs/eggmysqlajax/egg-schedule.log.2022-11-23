@@ -1,0 +1,84 @@
+2022-11-23 14:27:11,680 INFO 1636 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 14:27:11,680 INFO 1636 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 14:27:11,680 INFO 1636 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 14:28:02,215 INFO 21944 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 14:28:02,215 INFO 21944 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 14:28:02,216 INFO 21944 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 14:28:02,610 INFO 12848 [Timer] C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 50517395ms at 2022-11-24 04:30:00.005
+2022-11-23 14:28:02,611 INFO 12848 [Timer] C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 34317390ms at 2022-11-24 00:00:00.001
+2022-11-23 14:28:02,611 INFO 12848 [Timer] C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 34318389ms at 2022-11-24 00:00:01.000
+2022-11-23 14:29:46,801 INFO 16524 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 14:29:46,801 INFO 16524 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 14:29:46,802 INFO 16524 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 14:30:00,569 INFO 17648 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 14:30:00,570 INFO 17648 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 14:30:00,570 INFO 17648 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 15:07:04,510 INFO 8876 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 15:07:04,510 INFO 8876 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 15:07:04,510 INFO 8876 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 15:17:01,440 INFO 18908 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 15:17:01,440 INFO 18908 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 15:17:01,440 INFO 18908 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 15:17:24,370 INFO 17704 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 15:17:24,370 INFO 17704 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 15:17:24,370 INFO 17704 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 15:22:25,258 INFO 2636 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 15:22:25,258 INFO 2636 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 15:22:25,258 INFO 2636 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 15:22:27,300 INFO 19428 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 15:22:27,300 INFO 19428 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 15:22:27,300 INFO 19428 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 15:23:59,174 INFO 16676 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 15:23:59,174 INFO 16676 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 15:23:59,174 INFO 16676 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 15:25:44,549 INFO 1472 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 15:25:44,549 INFO 1472 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 15:25:44,549 INFO 1472 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 15:26:52,839 INFO 21092 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 15:26:52,839 INFO 21092 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 15:26:52,840 INFO 21092 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 15:29:26,547 INFO 13532 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 15:29:26,547 INFO 13532 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 15:29:26,547 INFO 13532 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 15:29:28,506 INFO 4116 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 15:29:28,506 INFO 4116 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 15:29:28,507 INFO 4116 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 15:31:15,882 INFO 18112 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 15:31:15,882 INFO 18112 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 15:31:15,882 INFO 18112 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 15:37:44,100 INFO 12512 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 15:37:44,100 INFO 12512 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 15:37:44,100 INFO 12512 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 15:39:05,002 INFO 14268 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 15:39:05,002 INFO 14268 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 15:39:05,003 INFO 14268 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 15:40:11,682 INFO 19860 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 15:40:11,682 INFO 19860 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 15:40:11,682 INFO 19860 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 16:09:15,027 INFO 12136 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 16:09:15,027 INFO 12136 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 16:09:15,027 INFO 12136 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 16:09:24,861 INFO 6828 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 16:09:24,861 INFO 6828 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 16:09:24,861 INFO 6828 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 16:09:46,265 INFO 292 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 16:09:46,265 INFO 292 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 16:09:46,265 INFO 292 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 16:25:16,098 INFO 20020 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 16:25:16,098 INFO 20020 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 16:25:16,098 INFO 20020 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 16:25:18,332 INFO 5132 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 16:25:18,332 INFO 5132 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 16:25:18,332 INFO 5132 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 16:26:12,614 INFO 18476 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 16:26:12,614 INFO 18476 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 16:26:12,614 INFO 18476 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 16:28:27,665 INFO 2452 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-11-23 16:28:27,665 INFO 2452 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-11-23 16:28:27,665 INFO 2452 [egg-schedule]: register schedule C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-11-23 23:59:58,584 INFO 12848 [Timer] C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86401484ms at 2022-11-25 00:00:00.065
+2022-11-23 23:59:58,907 INFO 2452 [Job#16692191984063629447888755001] C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2022-11-23 23:59:59,122 INFO 2452 [Job#16692191984063629447888755001] C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 168ms. 
+2022-11-23 23:59:59,333 INFO 2452 [Job#16692191993263629456918476001] C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2022-11-23 23:59:59,457 INFO 2452 [Job#16692191993263629456918476001] C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 121ms. 
+2022-11-23 23:59:59,342 INFO 12848 [Timer] C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86401669ms at 2022-11-25 00:00:01.010

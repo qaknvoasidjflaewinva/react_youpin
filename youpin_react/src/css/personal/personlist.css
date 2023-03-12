@@ -1,0 +1,178 @@
+input[name='car'] {
+    width: 30px;
+}
+
+.centerli>li {
+    padding: 16px 20px;
+    cursor: pointer;
+}
+
+.center {
+    /* float: left; */
+    display: flex;
+    /* align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap; */
+}
+
+.IndexPersonList {
+    width: 173px;
+    margin-right: 7px;
+    min-height: 700px;
+    background: #fff repeat 0 0 none;
+}
+
+.perheadimg {
+    padding: 36px 10px;
+    width: 153px;
+    text-align: center;
+
+    border-bottom: 1px solid #f3f3f3;
+}
+
+.orderList>div {
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.obtng {
+    border: 1px solid #e7e7e7;
+    border-radius: 10%;
+    background-color: #e7e7e7;
+    outline: none;
+    cursor: pointer;
+    margin-right: 20px;
+    padding: 0px 5px;
+}
+
+/*cars*/
+.cartile {
+    width: 1200px;
+    height: 50px;
+    margin: 30px 30px;
+}
+
+.cartile>li {
+    float: left;
+    width: 200px;
+    text-align: left;
+}
+
+.inpN {
+    width: 110px;
+    background-color: #fff;
+}
+
+
+.ant-input-number-group .ant-input-number-group-addon {
+    padding: 0 3px;
+}
+
+.inpN:hover {
+    cursor: default;
+}
+
+.ant-input-number-disabled .ant-input-number-input {
+    cursor: default;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.num>div {
+    margin-top: 60px;
+}
+
+.sun {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sun>div {
+    display: flex;
+    align-items: center;
+}
+
+.sun>div>* {
+    margin: 0 15px;
+}
+
+.Adtitle {
+    width: 1000px;
+    font-size: 20px;
+    border-bottom: 1px solid #A3A8B0;
+}
+
+.acontent {
+    width: 250px;
+    border: 1px solid #e7e7e7;
+    background: #fff;
+    float: left;
+    margin-bottom: 10px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.addAd {
+    width: 80px;
+    margin: 0 auto;
+}
+
+.addAd>svg {
+    margin: 45px 0 10px;
+}
+
+.addAd>div {
+    text-align: center;
+}
+
+.acontent:hover {
+    border: 1px solid #845F3F;
+}
+
+.Addadtitle {
+    background: #fff;
+    margin-top: 20px;
+    height: 60px;
+}
+
+.Addadtitle>div {
+    margin-left: 25px;
+    line-height: 60px;
+    font-size: 19px;
+    float: left;
+}
+
+.Addadtitle>svg {
+    margin-right: 30px;
+    margin-top: 20px;
+    float: right;
+}
+
+.lines {
+    margin-top: 25px;
+    background: #eee;
+    height: 1px;
+    width: 603px;
+    margin-bottom: 10px;
+}
+
+.input_box {
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    overflow: hidden;
+    font-size: 16px;
+}
+
+.input_box>* {
+    margin-bottom: 20px;
+}
+.input_box input{
+    border: 1px solid #e7e7e7;
+}
+
+.input_box * {
+    margin-right: 30px;
+}

@@ -1,0 +1,8 @@
+2022-11-23 21:09:31,452 ERROR 12848 nodejs.ClusterClientNoResponseError: client no response in 2178877ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12848
+hostname: LAPTOP-E1C9GTF0
+

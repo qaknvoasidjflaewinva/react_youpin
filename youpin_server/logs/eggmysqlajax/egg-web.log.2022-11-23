@@ -1,0 +1,402 @@
+2022-11-23 14:27:11,643 INFO 1636 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 14:27:11,681 INFO 1636 [egg-multipart] file mode enable
+2022-11-23 14:27:11,681 INFO 1636 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 14:27:11,681 INFO 1636 [egg-mysql] connecting root@localhost:3306/xiaomi
+2022-11-23 14:27:13,280 INFO 1636 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 14:27:13,291 INFO 1636 [egg-security] use methodnoallow middleware
+2022-11-23 14:27:13,300 INFO 1636 [egg-security] use noopen middleware
+2022-11-23 14:27:13,310 INFO 1636 [egg-security] use nosniff middleware
+2022-11-23 14:27:13,318 INFO 1636 [egg-security] use xssProtection middleware
+2022-11-23 14:27:13,326 INFO 1636 [egg-security] use xframe middleware
+2022-11-23 14:27:13,334 INFO 1636 [egg-security] use dta middleware
+2022-11-23 14:27:13,334 INFO 1636 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 14:27:13,361 INFO 1636 [egg:core] dump config after load, 10ms
+2022-11-23 14:28:02,175 INFO 21944 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 14:28:02,216 INFO 21944 [egg-multipart] file mode enable
+2022-11-23 14:28:02,216 INFO 21944 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 14:28:02,217 INFO 21944 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 14:28:02,528 INFO 21944 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 14:28:02,532 INFO 21944 [egg-security] use methodnoallow middleware
+2022-11-23 14:28:02,533 INFO 21944 [egg-security] use noopen middleware
+2022-11-23 14:28:02,535 INFO 21944 [egg-security] use nosniff middleware
+2022-11-23 14:28:02,536 INFO 21944 [egg-security] use xssProtection middleware
+2022-11-23 14:28:02,537 INFO 21944 [egg-security] use xframe middleware
+2022-11-23 14:28:02,538 INFO 21944 [egg-security] use dta middleware
+2022-11-23 14:28:02,538 INFO 21944 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 14:28:02,553 INFO 21944 [egg:core] dump config after load, 7ms
+2022-11-23 14:28:02,577 INFO 21944 [egg-watcher:application] watcher start success
+2022-11-23 14:28:02,588 INFO 21944 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 14:28:02 GMT+0800 (中国标准时间)
+2022-11-23 14:28:02,600 INFO 21944 [egg:core] dump config after ready, 9ms
+2022-11-23 14:29:46,764 INFO 16524 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 14:29:46,802 INFO 16524 [egg-multipart] file mode enable
+2022-11-23 14:29:46,802 INFO 16524 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 14:29:46,802 INFO 16524 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 14:29:47,112 INFO 16524 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 14:29:47,115 INFO 16524 [egg-security] use methodnoallow middleware
+2022-11-23 14:29:47,117 INFO 16524 [egg-security] use noopen middleware
+2022-11-23 14:29:47,118 INFO 16524 [egg-security] use nosniff middleware
+2022-11-23 14:29:47,119 INFO 16524 [egg-security] use xssProtection middleware
+2022-11-23 14:29:47,120 INFO 16524 [egg-security] use xframe middleware
+2022-11-23 14:29:47,122 INFO 16524 [egg-security] use dta middleware
+2022-11-23 14:29:47,122 INFO 16524 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 14:29:47,135 INFO 16524 [egg:core] dump config after load, 6ms
+2022-11-23 14:29:47,159 INFO 16524 [egg-watcher:application] watcher start success
+2022-11-23 14:29:47,162 INFO 16524 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 14:29:47 GMT+0800 (中国标准时间)
+2022-11-23 14:29:47,170 INFO 16524 [egg:core] dump config after ready, 7ms
+2022-11-23 14:30:00,529 INFO 17648 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 14:30:00,570 INFO 17648 [egg-multipart] file mode enable
+2022-11-23 14:30:00,570 INFO 17648 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 14:30:00,571 INFO 17648 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 14:30:00,905 INFO 17648 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 14:30:00,909 INFO 17648 [egg-security] use methodnoallow middleware
+2022-11-23 14:30:00,910 INFO 17648 [egg-security] use noopen middleware
+2022-11-23 14:30:00,912 INFO 17648 [egg-security] use nosniff middleware
+2022-11-23 14:30:00,913 INFO 17648 [egg-security] use xssProtection middleware
+2022-11-23 14:30:00,914 INFO 17648 [egg-security] use xframe middleware
+2022-11-23 14:30:00,915 INFO 17648 [egg-security] use dta middleware
+2022-11-23 14:30:00,915 INFO 17648 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 14:30:00,940 INFO 17648 [egg:core] dump config after load, 14ms
+2022-11-23 14:30:00,976 INFO 17648 [egg-watcher:application] watcher start success
+2022-11-23 14:30:00,980 INFO 17648 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 14:30:00 GMT+0800 (中国标准时间)
+2022-11-23 14:30:00,993 INFO 17648 [egg:core] dump config after ready, 11ms
+2022-11-23 15:07:04,470 INFO 8876 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 15:07:04,511 INFO 8876 [egg-multipart] file mode enable
+2022-11-23 15:07:04,511 INFO 8876 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 15:07:04,512 INFO 8876 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 15:07:04,881 INFO 8876 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 15:07:04,885 INFO 8876 [egg-security] use methodnoallow middleware
+2022-11-23 15:07:04,886 INFO 8876 [egg-security] use noopen middleware
+2022-11-23 15:07:04,888 INFO 8876 [egg-security] use nosniff middleware
+2022-11-23 15:07:04,889 INFO 8876 [egg-security] use xssProtection middleware
+2022-11-23 15:07:04,890 INFO 8876 [egg-security] use xframe middleware
+2022-11-23 15:07:04,891 INFO 8876 [egg-security] use dta middleware
+2022-11-23 15:07:04,891 INFO 8876 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 15:07:04,905 INFO 8876 [egg:core] dump config after load, 6ms
+2022-11-23 15:07:04,924 INFO 8876 [egg-watcher:application] watcher start success
+2022-11-23 15:07:04,931 INFO 8876 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 15:07:04 GMT+0800 (中国标准时间)
+2022-11-23 15:07:04,940 INFO 8876 [egg:core] dump config after ready, 7ms
+2022-11-23 15:17:01,395 INFO 18908 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 15:17:01,440 INFO 18908 [egg-multipart] file mode enable
+2022-11-23 15:17:01,440 INFO 18908 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 15:17:01,441 INFO 18908 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 15:17:01,788 INFO 18908 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 15:17:01,792 INFO 18908 [egg-security] use methodnoallow middleware
+2022-11-23 15:17:01,793 INFO 18908 [egg-security] use noopen middleware
+2022-11-23 15:17:01,795 INFO 18908 [egg-security] use nosniff middleware
+2022-11-23 15:17:01,796 INFO 18908 [egg-security] use xssProtection middleware
+2022-11-23 15:17:01,797 INFO 18908 [egg-security] use xframe middleware
+2022-11-23 15:17:01,798 INFO 18908 [egg-security] use dta middleware
+2022-11-23 15:17:01,798 INFO 18908 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 15:17:01,812 INFO 18908 [egg:core] dump config after load, 6ms
+2022-11-23 15:17:01,832 INFO 18908 [egg-watcher:application] watcher start success
+2022-11-23 15:17:01,838 INFO 18908 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 15:17:01 GMT+0800 (中国标准时间)
+2022-11-23 15:17:01,846 INFO 18908 [egg:core] dump config after ready, 7ms
+2022-11-23 15:17:24,332 INFO 17704 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 15:17:24,371 INFO 17704 [egg-multipart] file mode enable
+2022-11-23 15:17:24,371 INFO 17704 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 15:17:24,371 INFO 17704 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 15:17:24,683 INFO 17704 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 15:17:24,687 INFO 17704 [egg-security] use methodnoallow middleware
+2022-11-23 15:17:24,689 INFO 17704 [egg-security] use noopen middleware
+2022-11-23 15:17:24,691 INFO 17704 [egg-security] use nosniff middleware
+2022-11-23 15:17:24,692 INFO 17704 [egg-security] use xssProtection middleware
+2022-11-23 15:17:24,693 INFO 17704 [egg-security] use xframe middleware
+2022-11-23 15:17:24,694 INFO 17704 [egg-security] use dta middleware
+2022-11-23 15:17:24,694 INFO 17704 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 15:17:24,708 INFO 17704 [egg:core] dump config after load, 7ms
+2022-11-23 15:17:24,728 INFO 17704 [egg-watcher:application] watcher start success
+2022-11-23 15:17:24,733 INFO 17704 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 15:17:24 GMT+0800 (中国标准时间)
+2022-11-23 15:17:24,743 INFO 17704 [egg:core] dump config after ready, 8ms
+2022-11-23 15:22:25,222 INFO 2636 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 15:22:25,259 INFO 2636 [egg-multipart] file mode enable
+2022-11-23 15:22:25,259 INFO 2636 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 15:22:25,259 INFO 2636 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 15:22:25,557 INFO 2636 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 15:22:25,560 INFO 2636 [egg-security] use methodnoallow middleware
+2022-11-23 15:22:25,561 INFO 2636 [egg-security] use noopen middleware
+2022-11-23 15:22:25,563 INFO 2636 [egg-security] use nosniff middleware
+2022-11-23 15:22:25,564 INFO 2636 [egg-security] use xssProtection middleware
+2022-11-23 15:22:25,566 INFO 2636 [egg-security] use xframe middleware
+2022-11-23 15:22:25,567 INFO 2636 [egg-security] use dta middleware
+2022-11-23 15:22:25,567 INFO 2636 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 15:22:25,581 INFO 2636 [egg:core] dump config after load, 7ms
+2022-11-23 15:22:25,606 INFO 2636 [egg-watcher:application] watcher start success
+2022-11-23 15:22:25,608 INFO 2636 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 15:22:25 GMT+0800 (中国标准时间)
+2022-11-23 15:22:25,617 INFO 2636 [egg:core] dump config after ready, 7ms
+2022-11-23 15:22:27,262 INFO 19428 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 15:22:27,301 INFO 19428 [egg-multipart] file mode enable
+2022-11-23 15:22:27,301 INFO 19428 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 15:22:27,301 INFO 19428 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 15:22:27,596 INFO 19428 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 15:22:27,600 INFO 19428 [egg-security] use methodnoallow middleware
+2022-11-23 15:22:27,601 INFO 19428 [egg-security] use noopen middleware
+2022-11-23 15:22:27,603 INFO 19428 [egg-security] use nosniff middleware
+2022-11-23 15:22:27,604 INFO 19428 [egg-security] use xssProtection middleware
+2022-11-23 15:22:27,605 INFO 19428 [egg-security] use xframe middleware
+2022-11-23 15:22:27,605 INFO 19428 [egg-security] use dta middleware
+2022-11-23 15:22:27,606 INFO 19428 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 15:22:27,618 INFO 19428 [egg:core] dump config after load, 6ms
+2022-11-23 15:22:27,645 INFO 19428 [egg-watcher:application] watcher start success
+2022-11-23 15:22:27,648 INFO 19428 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 15:22:27 GMT+0800 (中国标准时间)
+2022-11-23 15:22:27,663 INFO 19428 [egg:core] dump config after ready, 12ms
+2022-11-23 15:23:59,132 INFO 16676 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 15:23:59,175 INFO 16676 [egg-multipart] file mode enable
+2022-11-23 15:23:59,175 INFO 16676 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 15:23:59,176 INFO 16676 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 15:23:59,495 INFO 16676 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 15:23:59,499 INFO 16676 [egg-security] use methodnoallow middleware
+2022-11-23 15:23:59,500 INFO 16676 [egg-security] use noopen middleware
+2022-11-23 15:23:59,502 INFO 16676 [egg-security] use nosniff middleware
+2022-11-23 15:23:59,503 INFO 16676 [egg-security] use xssProtection middleware
+2022-11-23 15:23:59,505 INFO 16676 [egg-security] use xframe middleware
+2022-11-23 15:23:59,507 INFO 16676 [egg-security] use dta middleware
+2022-11-23 15:23:59,507 INFO 16676 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 15:23:59,519 INFO 16676 [egg:core] dump config after load, 6ms
+2022-11-23 15:23:59,547 INFO 16676 [egg-watcher:application] watcher start success
+2022-11-23 15:23:59,550 INFO 16676 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 15:23:59 GMT+0800 (中国标准时间)
+2022-11-23 15:23:59,562 INFO 16676 [egg:core] dump config after ready, 10ms
+2022-11-23 15:25:44,471 INFO 1472 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 15:25:44,550 INFO 1472 [egg-multipart] file mode enable
+2022-11-23 15:25:44,550 INFO 1472 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 15:25:44,550 INFO 1472 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 15:25:44,867 INFO 1472 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 15:25:44,871 INFO 1472 [egg-security] use methodnoallow middleware
+2022-11-23 15:25:44,872 INFO 1472 [egg-security] use noopen middleware
+2022-11-23 15:25:44,874 INFO 1472 [egg-security] use nosniff middleware
+2022-11-23 15:25:44,875 INFO 1472 [egg-security] use xssProtection middleware
+2022-11-23 15:25:44,876 INFO 1472 [egg-security] use xframe middleware
+2022-11-23 15:25:44,877 INFO 1472 [egg-security] use dta middleware
+2022-11-23 15:25:44,877 INFO 1472 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 15:25:44,892 INFO 1472 [egg:core] dump config after load, 8ms
+2022-11-23 15:25:44,914 INFO 1472 [egg-watcher:application] watcher start success
+2022-11-23 15:25:44,920 INFO 1472 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 15:25:44 GMT+0800 (中国标准时间)
+2022-11-23 15:25:44,929 INFO 1472 [egg:core] dump config after ready, 8ms
+2022-11-23 15:26:52,792 INFO 21092 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 15:26:52,840 INFO 21092 [egg-multipart] file mode enable
+2022-11-23 15:26:52,840 INFO 21092 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 15:26:52,841 INFO 21092 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 15:26:53,167 INFO 21092 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 15:26:53,171 INFO 21092 [egg-security] use methodnoallow middleware
+2022-11-23 15:26:53,173 INFO 21092 [egg-security] use noopen middleware
+2022-11-23 15:26:53,177 INFO 21092 [egg-security] use nosniff middleware
+2022-11-23 15:26:53,179 INFO 21092 [egg-security] use xssProtection middleware
+2022-11-23 15:26:53,181 INFO 21092 [egg-security] use xframe middleware
+2022-11-23 15:26:53,183 INFO 21092 [egg-security] use dta middleware
+2022-11-23 15:26:53,183 INFO 21092 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 15:26:53,206 INFO 21092 [egg:core] dump config after load, 13ms
+2022-11-23 15:26:53,232 INFO 21092 [egg-watcher:application] watcher start success
+2022-11-23 15:26:53,240 INFO 21092 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 15:26:53 GMT+0800 (中国标准时间)
+2022-11-23 15:26:53,250 INFO 21092 [egg:core] dump config after ready, 8ms
+2022-11-23 15:29:26,508 INFO 13532 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 15:29:26,548 INFO 13532 [egg-multipart] file mode enable
+2022-11-23 15:29:26,548 INFO 13532 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 15:29:26,548 INFO 13532 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 15:29:26,874 INFO 13532 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 15:29:26,878 INFO 13532 [egg-security] use methodnoallow middleware
+2022-11-23 15:29:26,879 INFO 13532 [egg-security] use noopen middleware
+2022-11-23 15:29:26,881 INFO 13532 [egg-security] use nosniff middleware
+2022-11-23 15:29:26,882 INFO 13532 [egg-security] use xssProtection middleware
+2022-11-23 15:29:26,884 INFO 13532 [egg-security] use xframe middleware
+2022-11-23 15:29:26,885 INFO 13532 [egg-security] use dta middleware
+2022-11-23 15:29:26,885 INFO 13532 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 15:29:26,897 INFO 13532 [egg:core] dump config after load, 5ms
+2022-11-23 15:29:26,919 INFO 13532 [egg-watcher:application] watcher start success
+2022-11-23 15:29:26,925 INFO 13532 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 15:29:26 GMT+0800 (中国标准时间)
+2022-11-23 15:29:26,934 INFO 13532 [egg:core] dump config after ready, 6ms
+2022-11-23 15:29:28,464 INFO 4116 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 15:29:28,508 INFO 4116 [egg-multipart] file mode enable
+2022-11-23 15:29:28,508 INFO 4116 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 15:29:28,508 INFO 4116 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 15:29:28,831 INFO 4116 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 15:29:28,834 INFO 4116 [egg-security] use methodnoallow middleware
+2022-11-23 15:29:28,836 INFO 4116 [egg-security] use noopen middleware
+2022-11-23 15:29:28,839 INFO 4116 [egg-security] use nosniff middleware
+2022-11-23 15:29:28,840 INFO 4116 [egg-security] use xssProtection middleware
+2022-11-23 15:29:28,841 INFO 4116 [egg-security] use xframe middleware
+2022-11-23 15:29:28,842 INFO 4116 [egg-security] use dta middleware
+2022-11-23 15:29:28,842 INFO 4116 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 15:29:28,856 INFO 4116 [egg:core] dump config after load, 7ms
+2022-11-23 15:29:28,879 INFO 4116 [egg-watcher:application] watcher start success
+2022-11-23 15:29:28,885 INFO 4116 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 15:29:28 GMT+0800 (中国标准时间)
+2022-11-23 15:29:28,895 INFO 4116 [egg:core] dump config after ready, 8ms
+2022-11-23 15:31:15,845 INFO 18112 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 15:31:15,883 INFO 18112 [egg-multipart] file mode enable
+2022-11-23 15:31:15,883 INFO 18112 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 15:31:15,883 INFO 18112 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 15:31:16,170 INFO 18112 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 15:31:16,174 INFO 18112 [egg-security] use methodnoallow middleware
+2022-11-23 15:31:16,175 INFO 18112 [egg-security] use noopen middleware
+2022-11-23 15:31:16,177 INFO 18112 [egg-security] use nosniff middleware
+2022-11-23 15:31:16,178 INFO 18112 [egg-security] use xssProtection middleware
+2022-11-23 15:31:16,179 INFO 18112 [egg-security] use xframe middleware
+2022-11-23 15:31:16,179 INFO 18112 [egg-security] use dta middleware
+2022-11-23 15:31:16,180 INFO 18112 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 15:31:16,193 INFO 18112 [egg:core] dump config after load, 7ms
+2022-11-23 15:31:16,212 INFO 18112 [egg-watcher:application] watcher start success
+2022-11-23 15:31:16,217 INFO 18112 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 15:31:16 GMT+0800 (中国标准时间)
+2022-11-23 15:31:16,226 INFO 18112 [egg:core] dump config after ready, 7ms
+2022-11-23 15:37:44,059 INFO 12512 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 15:37:44,101 INFO 12512 [egg-multipart] file mode enable
+2022-11-23 15:37:44,101 INFO 12512 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 15:37:44,101 INFO 12512 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 15:37:44,429 INFO 12512 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 15:37:44,433 INFO 12512 [egg-security] use methodnoallow middleware
+2022-11-23 15:37:44,434 INFO 12512 [egg-security] use noopen middleware
+2022-11-23 15:37:44,436 INFO 12512 [egg-security] use nosniff middleware
+2022-11-23 15:37:44,437 INFO 12512 [egg-security] use xssProtection middleware
+2022-11-23 15:37:44,438 INFO 12512 [egg-security] use xframe middleware
+2022-11-23 15:37:44,439 INFO 12512 [egg-security] use dta middleware
+2022-11-23 15:37:44,439 INFO 12512 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 15:37:44,453 INFO 12512 [egg:core] dump config after load, 7ms
+2022-11-23 15:37:44,473 INFO 12512 [egg-watcher:application] watcher start success
+2022-11-23 15:37:44,479 INFO 12512 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 15:37:44 GMT+0800 (中国标准时间)
+2022-11-23 15:37:44,487 INFO 12512 [egg:core] dump config after ready, 7ms
+2022-11-23 15:39:04,952 INFO 14268 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 15:39:05,003 INFO 14268 [egg-multipart] file mode enable
+2022-11-23 15:39:05,003 INFO 14268 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 15:39:05,004 INFO 14268 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 15:39:05,340 INFO 14268 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 15:39:05,344 INFO 14268 [egg-security] use methodnoallow middleware
+2022-11-23 15:39:05,345 INFO 14268 [egg-security] use noopen middleware
+2022-11-23 15:39:05,348 INFO 14268 [egg-security] use nosniff middleware
+2022-11-23 15:39:05,349 INFO 14268 [egg-security] use xssProtection middleware
+2022-11-23 15:39:05,350 INFO 14268 [egg-security] use xframe middleware
+2022-11-23 15:39:05,351 INFO 14268 [egg-security] use dta middleware
+2022-11-23 15:39:05,351 INFO 14268 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 15:39:05,365 INFO 14268 [egg:core] dump config after load, 6ms
+2022-11-23 15:39:05,385 INFO 14268 [egg-watcher:application] watcher start success
+2022-11-23 15:39:05,391 INFO 14268 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 15:39:05 GMT+0800 (中国标准时间)
+2022-11-23 15:39:05,401 INFO 14268 [egg:core] dump config after ready, 8ms
+2022-11-23 15:40:11,641 INFO 19860 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 15:40:11,682 INFO 19860 [egg-multipart] file mode enable
+2022-11-23 15:40:11,682 INFO 19860 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 15:40:11,683 INFO 19860 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 15:40:12,050 INFO 19860 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 15:40:12,055 INFO 19860 [egg-security] use methodnoallow middleware
+2022-11-23 15:40:12,056 INFO 19860 [egg-security] use noopen middleware
+2022-11-23 15:40:12,058 INFO 19860 [egg-security] use nosniff middleware
+2022-11-23 15:40:12,059 INFO 19860 [egg-security] use xssProtection middleware
+2022-11-23 15:40:12,060 INFO 19860 [egg-security] use xframe middleware
+2022-11-23 15:40:12,061 INFO 19860 [egg-security] use dta middleware
+2022-11-23 15:40:12,061 INFO 19860 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 15:40:12,075 INFO 19860 [egg:core] dump config after load, 6ms
+2022-11-23 15:40:12,101 INFO 19860 [egg-watcher:application] watcher start success
+2022-11-23 15:40:12,107 INFO 19860 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 15:40:12 GMT+0800 (中国标准时间)
+2022-11-23 15:40:12,117 INFO 19860 [egg:core] dump config after ready, 8ms
+2022-11-23 16:09:14,990 INFO 12136 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 16:09:15,028 INFO 12136 [egg-multipart] file mode enable
+2022-11-23 16:09:15,028 INFO 12136 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 16:09:15,028 INFO 12136 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 16:09:15,377 INFO 12136 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 16:09:15,381 INFO 12136 [egg-security] use methodnoallow middleware
+2022-11-23 16:09:15,382 INFO 12136 [egg-security] use noopen middleware
+2022-11-23 16:09:15,384 INFO 12136 [egg-security] use nosniff middleware
+2022-11-23 16:09:15,385 INFO 12136 [egg-security] use xssProtection middleware
+2022-11-23 16:09:15,386 INFO 12136 [egg-security] use xframe middleware
+2022-11-23 16:09:15,387 INFO 12136 [egg-security] use dta middleware
+2022-11-23 16:09:15,387 INFO 12136 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 16:09:15,399 INFO 12136 [egg:core] dump config after load, 5ms
+2022-11-23 16:09:15,422 INFO 12136 [egg-watcher:application] watcher start success
+2022-11-23 16:09:15,428 INFO 12136 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 16:09:15 GMT+0800 (中国标准时间)
+2022-11-23 16:09:15,437 INFO 12136 [egg:core] dump config after ready, 7ms
+2022-11-23 16:09:24,824 INFO 6828 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 16:09:24,862 INFO 6828 [egg-multipart] file mode enable
+2022-11-23 16:09:24,862 INFO 6828 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 16:09:24,862 INFO 6828 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 16:09:25,164 INFO 6828 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 16:09:25,167 INFO 6828 [egg-security] use methodnoallow middleware
+2022-11-23 16:09:25,168 INFO 6828 [egg-security] use noopen middleware
+2022-11-23 16:09:25,171 INFO 6828 [egg-security] use nosniff middleware
+2022-11-23 16:09:25,172 INFO 6828 [egg-security] use xssProtection middleware
+2022-11-23 16:09:25,173 INFO 6828 [egg-security] use xframe middleware
+2022-11-23 16:09:25,174 INFO 6828 [egg-security] use dta middleware
+2022-11-23 16:09:25,174 INFO 6828 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 16:09:25,187 INFO 6828 [egg:core] dump config after load, 5ms
+2022-11-23 16:09:25,207 INFO 6828 [egg-watcher:application] watcher start success
+2022-11-23 16:09:25,212 INFO 6828 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 16:09:25 GMT+0800 (中国标准时间)
+2022-11-23 16:09:25,221 INFO 6828 [egg:core] dump config after ready, 7ms
+2022-11-23 16:09:46,227 INFO 292 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 16:09:46,266 INFO 292 [egg-multipart] file mode enable
+2022-11-23 16:09:46,266 INFO 292 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 16:09:46,266 INFO 292 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 16:09:46,564 INFO 292 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 16:09:46,568 INFO 292 [egg-security] use methodnoallow middleware
+2022-11-23 16:09:46,569 INFO 292 [egg-security] use noopen middleware
+2022-11-23 16:09:46,572 INFO 292 [egg-security] use nosniff middleware
+2022-11-23 16:09:46,573 INFO 292 [egg-security] use xssProtection middleware
+2022-11-23 16:09:46,574 INFO 292 [egg-security] use xframe middleware
+2022-11-23 16:09:46,574 INFO 292 [egg-security] use dta middleware
+2022-11-23 16:09:46,575 INFO 292 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 16:09:46,588 INFO 292 [egg:core] dump config after load, 7ms
+2022-11-23 16:09:46,609 INFO 292 [egg-watcher:application] watcher start success
+2022-11-23 16:09:46,614 INFO 292 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 16:09:46 GMT+0800 (中国标准时间)
+2022-11-23 16:09:46,624 INFO 292 [egg:core] dump config after ready, 9ms
+2022-11-23 16:25:16,062 INFO 20020 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 16:25:16,098 INFO 20020 [egg-multipart] file mode enable
+2022-11-23 16:25:16,098 INFO 20020 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 16:25:16,099 INFO 20020 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 16:25:16,444 INFO 20020 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 16:25:16,449 INFO 20020 [egg-security] use methodnoallow middleware
+2022-11-23 16:25:16,450 INFO 20020 [egg-security] use noopen middleware
+2022-11-23 16:25:16,452 INFO 20020 [egg-security] use nosniff middleware
+2022-11-23 16:25:16,453 INFO 20020 [egg-security] use xssProtection middleware
+2022-11-23 16:25:16,454 INFO 20020 [egg-security] use xframe middleware
+2022-11-23 16:25:16,456 INFO 20020 [egg-security] use dta middleware
+2022-11-23 16:25:16,456 INFO 20020 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 16:25:16,470 INFO 20020 [egg:core] dump config after load, 5ms
+2022-11-23 16:25:16,492 INFO 20020 [egg-watcher:application] watcher start success
+2022-11-23 16:25:16,498 INFO 20020 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 16:25:16 GMT+0800 (中国标准时间)
+2022-11-23 16:25:16,507 INFO 20020 [egg:core] dump config after ready, 7ms
+2022-11-23 16:25:18,291 INFO 5132 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 16:25:18,333 INFO 5132 [egg-multipart] file mode enable
+2022-11-23 16:25:18,333 INFO 5132 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 16:25:18,333 INFO 5132 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 16:25:18,642 INFO 5132 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 16:25:18,646 INFO 5132 [egg-security] use methodnoallow middleware
+2022-11-23 16:25:18,648 INFO 5132 [egg-security] use noopen middleware
+2022-11-23 16:25:18,650 INFO 5132 [egg-security] use nosniff middleware
+2022-11-23 16:25:18,650 INFO 5132 [egg-security] use xssProtection middleware
+2022-11-23 16:25:18,651 INFO 5132 [egg-security] use xframe middleware
+2022-11-23 16:25:18,653 INFO 5132 [egg-security] use dta middleware
+2022-11-23 16:25:18,653 INFO 5132 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 16:25:18,667 INFO 5132 [egg:core] dump config after load, 6ms
+2022-11-23 16:25:18,687 INFO 5132 [egg-watcher:application] watcher start success
+2022-11-23 16:25:18,692 INFO 5132 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 16:25:18 GMT+0800 (中国标准时间)
+2022-11-23 16:25:18,701 INFO 5132 [egg:core] dump config after ready, 7ms
+2022-11-23 16:26:12,575 INFO 18476 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 16:26:12,614 INFO 18476 [egg-multipart] file mode enable
+2022-11-23 16:26:12,614 INFO 18476 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 16:26:12,615 INFO 18476 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 16:26:12,932 INFO 18476 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 16:26:12,936 INFO 18476 [egg-security] use methodnoallow middleware
+2022-11-23 16:26:12,937 INFO 18476 [egg-security] use noopen middleware
+2022-11-23 16:26:12,939 INFO 18476 [egg-security] use nosniff middleware
+2022-11-23 16:26:12,940 INFO 18476 [egg-security] use xssProtection middleware
+2022-11-23 16:26:12,941 INFO 18476 [egg-security] use xframe middleware
+2022-11-23 16:26:12,942 INFO 18476 [egg-security] use dta middleware
+2022-11-23 16:26:12,942 INFO 18476 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 16:26:12,955 INFO 18476 [egg:core] dump config after load, 6ms
+2022-11-23 16:26:12,974 INFO 18476 [egg-watcher:application] watcher start success
+2022-11-23 16:26:12,980 INFO 18476 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 16:26:12 GMT+0800 (中国标准时间)
+2022-11-23 16:26:12,989 INFO 18476 [egg:core] dump config after ready, 7ms
+2022-11-23 16:28:27,625 INFO 2452 [egg:logger] init all loggers with options: {"dir":"C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"eggmysqlajax-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-23 16:28:27,665 INFO 2452 [egg-multipart] file mode enable
+2022-11-23 16:28:27,665 INFO 2452 [egg-multipart] will save temporary files to "C:\\Users\\qxy\\AppData\\Local\\Temp\\egg-multipart-tmp\\eggmysqlajax", cleanup job cron: "0 30 4 * * *"
+2022-11-23 16:28:27,666 INFO 2452 [egg-mysql] connecting root@localhost:3306/youpin
+2022-11-23 16:28:27,985 INFO 2452 [egg-static] starting static serve /public/ -> C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\public
+2022-11-23 16:28:27,989 INFO 2452 [egg-security] use methodnoallow middleware
+2022-11-23 16:28:27,990 INFO 2452 [egg-security] use noopen middleware
+2022-11-23 16:28:27,992 INFO 2452 [egg-security] use nosniff middleware
+2022-11-23 16:28:27,993 INFO 2452 [egg-security] use xssProtection middleware
+2022-11-23 16:28:27,994 INFO 2452 [egg-security] use xframe middleware
+2022-11-23 16:28:27,995 INFO 2452 [egg-security] use dta middleware
+2022-11-23 16:28:27,996 INFO 2452 [egg-security] compose 6 middlewares into one security middleware
+2022-11-23 16:28:28,012 INFO 2452 [egg:core] dump config after load, 8ms
+2022-11-23 16:28:28,031 INFO 2452 [egg-watcher:application] watcher start success
+2022-11-23 16:28:28,037 INFO 2452 [egg-mysql] instance[0] status OK, rds currentTime: Wed Nov 23 2022 16:28:28 GMT+0800 (中国标准时间)
+2022-11-23 16:28:28,046 INFO 2452 [egg:core] dump config after ready, 8ms
+2022-11-23 21:09:31,323 WARN 2452 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-23 21:09:31,400 WARN 2452 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-23 23:59:59,118 INFO 2452 [egg-logrotator] clean all log before 31 days
+2022-11-23 23:59:59,454 INFO 2452 [egg-logrotator] broadcast log-reload
+2022-11-23 23:59:59,457 INFO 2452 [egg-logrotator] rotate files success by DayRotator, files ["C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax\\common-error.log -> C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax\\common-error.log.2022-11-23","C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax\\eggmysqlajax-web.log -> C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax\\eggmysqlajax-web.log.2022-11-23","C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax\\egg-web.log -> C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax\\egg-web.log.2022-11-23","C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax\\egg-schedule.log -> C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax\\egg-schedule.log.2022-11-23","C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax\\egg-agent.log -> C:\\Users\\qxy\\Desktop\\xiaomiyoupin\\youpin\\youpin_server\\logs\\eggmysqlajax\\egg-agent.log.2022-11-23"]

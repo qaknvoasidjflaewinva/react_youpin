@@ -1,0 +1,1007 @@
+2022-11-24 10:47:56,493 ERROR 3920 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3920
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-24 12:52:32,967 ERROR 3920 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3920
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-24 17:27:46,654 ERROR 3920 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3920
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-26 14:31:30,498 ERROR 3816 nodejs.ClusterClientNoResponseError: client no response in 1560199ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 3816
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-26 15:47:18,325 ERROR 3816 nodejs.ClusterClientNoResponseError: client no response in 4547731ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 3816
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-26 16:13:32,257 ERROR 3816 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3816
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-26 17:23:41,868 ERROR 3816 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3816
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-26 19:29:53,948 ERROR 3816 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3816
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-26 22:01:56,651 ERROR 3816 nodejs.ClusterClientNoResponseError: client no response in 740946ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 3816
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-26 22:16:57,080 ERROR 3816 nodejs.ClusterClientNoResponseError: client no response in 900379ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 3816
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-26 23:37:24,745 ERROR 3816 nodejs.ClusterClientNoResponseError: client no response in 4827612ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 3816
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-28 10:00:44,640 ERROR 14520 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14520
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-28 11:00:56,332 ERROR 14520 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14520
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-28 12:42:43,473 ERROR 14520 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14520
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-28 13:58:44,347 ERROR 14520 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14520
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-28 14:59:02,701 ERROR 14520 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14520
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-28 16:07:55,853 ERROR 14520 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14520
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-28 17:10:43,524 ERROR 14520 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14520
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-28 18:27:50,658 ERROR 14520 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14520
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-28 20:03:00,441 ERROR 14520 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14520
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-28 21:16:23,140 ERROR 14520 nodejs.ClusterClientNoResponseError: client no response in 2646396ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 14520
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-28 21:37:21,596 ERROR 14520 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14520
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 10:43:13,740 ERROR 14356 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14356
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 11:50:21,136 ERROR 14356 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14356
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 13:33:11,933 ERROR 14356 nodejs.ClusterClientNoResponseError: client no response in 247345ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 14356
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 13:53:33,636 ERROR 14356 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14356
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 13:57:35,606 ERROR 13796 [-/::1/-/11ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:162:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13796
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 13:57:35,619 ERROR 13796 [-/::1/-/6ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:162:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13796
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 13:58:23,343 ERROR 13796 [-/::1/-/10ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:162:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13796
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 13:58:37,908 ERROR 13796 [-/::1/-/7ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:162:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13796
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:03:44,069 ERROR 6608 [-/::1/-/9ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:162:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6608
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:03:44,082 ERROR 6608 [-/::1/-/6ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:162:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6608
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:03:55,621 ERROR 6608 [-/::1/-/4ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:162:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6608
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:03:56,876 ERROR 6608 [-/::1/-/5ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:162:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6608
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:03:57,209 ERROR 6608 [-/::1/-/4ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:162:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6608
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:03:57,252 ERROR 6608 [-/::1/-/5ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:162:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6608
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:03:57,553 ERROR 6608 [-/::1/-/5ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:162:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6608
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:06:09,562 ERROR 6768 [-/::1/-/10ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:162:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 6768
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:06:25,628 ERROR 21252 [-/::1/-/15ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:162:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 21252
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:07:57,076 ERROR 18176 [-/::1/-/9ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:162:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 18176
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:17:16,385 ERROR 5008 [-/::1/-/12ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:163:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 5008
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:24:09,912 ERROR 16432 [-/::1/-/17ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:165:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 16432
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:25:00,793 ERROR 19112 [-/::1/-/10ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:165:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 19112
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:26:09,003 ERROR 9436 [-/::1/-/22ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:166:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9436
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:26:55,641 ERROR 3216 [-/::1/-/19ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:166:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 3216
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:27:29,988 ERROR 8716 [-/::1/-/19ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:167:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 8716
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:27:58,189 ERROR 9156 [-/::1/-/21ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:167:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9156
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:29:12,507 ERROR 18136 [-/::1/-/15ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:167:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 18136
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:30:30,555 ERROR 10276 [-/::1/-/13ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:168:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10276
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:31:21,506 ERROR 19096 [-/::1/-/17ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:168:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 19096
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:31:46,856 ERROR 19096 [-/::1/-/9ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:168:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 19096
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:32:00,622 ERROR 18888 [-/::1/-/13ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:168:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 18888
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:33:38,452 ERROR 18956 [-/::1/-/16ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:169:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 18956
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:33:50,169 ERROR 13692 [-/::1/-/12ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:169:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 13692
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:37:18,887 ERROR 19328 [-/::1/-/11ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:169:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 19328
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:37:41,979 ERROR 19328 [-/::1/-/7ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:169:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 19328
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:45:21,206 ERROR 12932 [-/::1/-/11ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:166:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 12932
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:45:57,415 ERROR 9948 [-/::1/-/17ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:166:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9948
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:45:58,433 ERROR 9948 [-/::1/-/15ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:166:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9948
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:46:37,039 ERROR 1088 [-/::1/-/23ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:167:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 1088
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:49:02,959 ERROR 10780 [-/::1/-/23ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:169:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10780
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:50:12,906 ERROR 10780 [-/::1/-/15ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:169:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10780
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:50:56,983 ERROR 10780 [-/::1/-/15ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:169:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 10780
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:53:39,989 ERROR 11552 [-/::1/-/27ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:170:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 11552
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:53:48,508 ERROR 14356 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 14356
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:54:42,627 ERROR 21236 [-/::1/-/29ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:170:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 21236
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:55:50,251 ERROR 3536 [-/::1/-/23ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:170:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 3536
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:56:45,836 ERROR 16248 [-/::1/-/22ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:171:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 16248
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:57:35,310 ERROR 9844 [-/::1/-/24ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:171:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9844
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:57:35,643 ERROR 9844 [-/::1/-/11ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:171:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 9844
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:58:21,419 ERROR 22104 [-/::1/-/18ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:172:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 22104
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:58:23,963 ERROR 22104 [-/::1/-/13ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:172:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 22104
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 14:59:18,164 ERROR 12320 [-/::1/-/19ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:173:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 12320
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 15:04:17,917 ERROR 20368 [-/::1/-/22ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:173:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 20368
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 15:04:20,311 ERROR 20368 [-/::1/-/14ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:173:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 20368
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 15:05:17,081 ERROR 20368 [-/::1/-/17ms GET /getCommentBygid.do?gid=1] nodejs.ReferenceError: commentList is not defined
+    at GoodsController.getCommentBygid (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\app\controller\goodsController.js:173:51)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-session\index.js:41:7)
+    at async bodyParser (C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-bodyparser\index.js:95:5)
+    at async C:\Users\qxy\Desktop\xiaomiyoupin\youpin\youpin_server\node_modules\koa-static-cache\index.js:41:56
+headers: {"Access-Control-Allow-Origin":"https://getman.cn","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 20368
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 16:07:40,195 ERROR 8580 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8580
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 17:12:22,287 ERROR 8580 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 8580
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 22:00:06,848 ERROR 17060 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 17060
+hostname: LAPTOP-E1C9GTF0
+
+2022-11-29 23:09:41,025 ERROR 17060 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 17060
+hostname: LAPTOP-E1C9GTF0
+

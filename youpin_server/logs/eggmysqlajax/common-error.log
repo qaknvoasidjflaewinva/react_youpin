@@ -1,0 +1,45 @@
+2022-11-30 01:17:12,555 ERROR 10784 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10784
+hostname: DESKTOP-EKKF5C0
+
+2022-11-30 02:30:54,639 ERROR 10784 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10784
+hostname: DESKTOP-EKKF5C0
+
+2022-11-30 02:31:13,365 ERROR 10784 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10784
+hostname: DESKTOP-EKKF5C0
+
+2022-11-30 02:32:56,426 ERROR 10784 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10784
+hostname: DESKTOP-EKKF5C0
+
+2022-11-30 02:33:00,453 ERROR 10784 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10784
+hostname: DESKTOP-EKKF5C0
+

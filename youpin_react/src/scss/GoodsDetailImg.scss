@@ -1,0 +1,157 @@
+// 商品详细信息图片部分
+.goodsDetailImg {
+    float: left;
+    width: 774px;
+
+    .renderImg {
+        img {
+            width: 100%;
+            float: left;
+        }
+
+    }
+
+
+    .tabs {
+        width: 774px;
+        background-color: #e7e7e7;
+        z-index: 20;
+
+        ul {
+            background: none;
+        }
+    }
+}
+
+// 商品详情页面 更多
+.goods_more {
+    width: 262px;
+    float: right;
+
+    .like_more {
+        text-align: center;
+        color: #333;
+        font-size: 16px;
+        font-weight: 400;
+        height: 42px;
+        line-height: 42px;
+        margin-bottom: 17px;
+        position: relative;
+
+        @mixin more_line {
+            content: "";
+            width: 25px;
+            height: 1px;
+            background-color: #000;
+            position: absolute;
+
+        }
+
+        &::before {
+            @include more_line;
+            top: 20px;
+            left: 42px;
+        }
+
+        &::after {
+            @include more_line;
+            top: 20px;
+            right: 42px;
+        }
+    }
+}
+
+// 商品评论
+.commentbox {
+    margin-top: 10px;
+
+    .t_div {
+        position: relative;
+
+
+        .myimg {
+            height: 44px;
+            width: 44px;
+            border-radius: 22px;
+            background: #eee;
+            overflow: hidden;
+            float: left;
+
+            img {
+                height: 44px;
+                width: 44px;
+            }
+        }
+
+        .info {
+            margin-left: 66px;
+            width: 774px;
+
+            .name {
+                font-size: 18px;
+                color: #333;
+            }
+
+            .attach {
+                font-size: 12px;
+                color: #999;
+                margin-top: 5px;
+            }
+        }
+
+        .tips {
+            margin: 10px 0 10px 66px;
+            // float: right;
+            position: absolute;
+            top: 1px;
+            right: 20px;
+
+            button {
+                margin-right: 10px;
+                height: 20px;
+                padding: 0 4px;
+                font-size: 10px;
+            }
+        }
+    }
+
+    .b_div {
+        margin: 10px 0 10px 66px;
+        font-size: 14px;
+        line-height: 24px;
+        color: #333;
+
+
+    }
+
+
+}
+
+.comlistbox {
+    .secondcom {
+        margin-left: 66px;
+    }
+
+    &::after {
+        content: '';
+        // width: 100%;
+        height: 1px;
+        background-color: #999;
+        display: block;
+        transform: scaleY(.2);
+        margin: 10px 0 15px 66px;
+    }
+}
+
+.isShow {
+    display: inline-block;
+}
+
+.isNotShow {
+    display: none;
+}
+
+.comboxstyle {
+    width: 300px;
+    margin-left: 66px;
+}

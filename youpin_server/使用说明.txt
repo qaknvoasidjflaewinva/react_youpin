@@ -1,0 +1,14 @@
+(1)复制文件"egg项目demo",修改文件名，比如把"egg项目demo"修改为"cookie2";
+(2)打开文件"config.default.js"，修改其中的数据库密码和数据库名字
+exports.mysql = {
+  client: {
+    host: 'localhost',
+    port: '3306',
+    user: 'root',
+    password: '123123',//数据库密码,要根据情况修改
+    database: 'eggdb',//数据库名字，要根据情况修改
+  },
+};
+(3)npm i 回车，或cnpm i 回车---该步是通过package.json配置下载模块
+(4)npm run dev
+(5)通过网址http://localhost:7001/getStr.do测试

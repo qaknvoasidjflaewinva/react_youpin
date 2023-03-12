@@ -1,0 +1,187 @@
+.mi-text-field__input {
+    background: #f9f9f9;
+    margin-top: 20px;
+}
+
+.mi-input {
+    position: relative;
+    overflow: hidden;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+
+    .mi-floating-label,
+    .get-code {
+        user-select: none;
+        position: absolute;
+        top: 20px;
+        left: 20px;
+        height: 20px;
+        font-weight: 400;
+        font-size: 17px;
+        color: rgba(0, 0, 0, .4);
+        line-height: 20px;
+        transition: top .15s cubic-bezier(.4, 0, .2, 1), font-size .15s cubic-bezier(.4, 0, .2, 1), color .15s cubic-bezier(.4, 0, .2, 1);
+        max-width: calc(100% - 20px);
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+        cursor: text;
+    }
+
+    .get-code {
+        left: 260px;
+        font-size: 14px;
+        color: #F0605D;
+        cursor: pointer;
+    }
+
+    .mi-input__input {
+        border: none;
+        background: rgba(0, 0, 0, 0);
+        padding: 30px 20px 10px;
+        height: 60px;
+        width: 100%;
+        box-sizing: border-box;
+        -webkit-appearance: none;
+        appearance: none;
+        font-size: 17px;
+        color: #333;
+        line-height: 20px;
+        border-radius: 4px;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        -ms-border-radius: 4px;
+        -o-border-radius: 4px;
+
+        &:focus {
+            background-color: #FCF2F3;
+            border: 1px solid #F0605D;
+            border-radius: 4px;
+            -webkit-border-radius: 4px;
+            -moz-border-radius: 4px;
+            -ms-border-radius: 4px;
+            -o-border-radius: 4px;
+        }
+    }
+
+    .mi-input__input:focus+.mi-floating-label {
+        font-size: 7px;
+        top: 10px;
+        left: 20px;
+        color: #F0605D;
+    }
+}
+
+.check-box {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+
+    input[type="checkbox"] {
+        width: 18px;
+        height: 18px;
+    }
+
+    span {
+        display: block;
+        color: #b0b0b0;
+
+        a {
+            color: #333;
+        }
+    }
+}
+
+.login-btn {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: #ff5c00;
+    cursor: pointer;
+    text-align: center;
+    border: none;
+    padding: 0 20px;
+    color: #f9f9f9;
+    border-radius: 4px;
+    width: 320px;
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 60px;
+    height: 60px;
+    transition: all .3s cubic-bezier(.645, .045, .355, 1);
+}
+
+.tab-actions {
+    height: auto;
+    font-size: 17px;
+
+    &:before,
+    &:after {
+        display: inline-block;
+        content: '';
+        clear: both;
+    }
+
+    .tab,
+    .tab1 {
+        color: #ff5c00;
+    }
+
+    .tab {
+        float: left;
+    }
+
+    .tab1 {
+        float: right;
+    }
+}
+
+.sns-login {
+    .sns-login-title {
+        text-align: center;
+        font-size: 17px;
+        font-weight: 400;
+        color: #aaa;
+        line-height: 40px;
+    }
+
+    .login-content {
+        margin-top: 10px;
+        height: 46px px;
+        overflow: hidden;
+
+        .mi-sns-login__list {
+            text-align: center;
+            width: 100%;
+
+            .mi-sns-login__item {
+                margin: 0 12px;
+                display: inline-block;
+                width: 46px;
+
+                .mi-sns-login__icon {
+                    margin: 0 auto;
+                    border-radius: 23px;
+                    cursor: pointer;
+                    display: block;
+                    font-size: 46px;
+                    width: 46px;
+                    height: 46px;
+                    overflow: hidden;
+
+                    svg {
+                        vertical-align: top;
+                    }
+                }
+            }
+        }
+    }
+}

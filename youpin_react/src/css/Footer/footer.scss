@@ -1,0 +1,74 @@
+.footer {
+    padding: 45px 0 0;
+    // height: 45px;
+    line-height: 23px;
+    border-top: 1px solid #e7e7e7;
+    background-color: rgb(255, 255, 255);
+    color: #666;
+    // margin-top: 60px;
+    box-sizing: border-box;
+
+    a {
+        color: rgb(102, 102, 102);
+    }
+
+    .container {
+        width: 1080px;
+        margin: 0 auto;
+        padding: 0;
+        // height: 200px;
+
+        .fl {
+            float: left;
+        }
+
+        .fr {
+            float: right;
+        }
+
+        .m-logo {
+            img {
+                width: 123px;
+                height: 45px;
+                margin-right: 25px;
+            }
+        }
+
+        .f-info {
+            position: relative;
+            padding-right: 138px;
+            font-size: 12px;
+
+            .icon {
+                position: absolute;
+                top: 4px;
+                right: 0;
+                padding-left: 14px;
+
+                img {
+                    width: 100px;
+                }
+            }
+
+            .footer-item {
+                color: #666;
+
+                span {
+                    margin-right: 5px;
+                }
+            }
+        }
+    }
+
+    .clear-f::before {
+        content: " ";
+        display: table;
+        clear: both;
+    }
+
+    .clear-f::after {
+        content: " ";
+        display: table;
+        clear: both;
+    }
+}

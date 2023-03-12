@@ -1,0 +1,108 @@
+<<<<<<< HEAD
+2022-11-27 23:12:19,582 ERROR 10468 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (node:internal/fs/watchers:204:21)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "C:\\Users\\admin\\OneDrive\\桌面\\reax\\youpin\\youpin_server\\app\\public\\personal"
+name: "EPERMError"
+pid: 10468
+hostname: DESKTOP-EKKF5C0
+
+2022-11-27 23:13:51,328 ERROR 10468 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10468
+hostname: DESKTOP-EKKF5C0
+
+2022-11-27 23:14:03,639 ERROR 10468 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10468
+hostname: DESKTOP-EKKF5C0
+
+2022-11-27 23:14:31,392 ERROR 10468 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10468
+hostname: DESKTOP-EKKF5C0
+
+2022-11-27 23:15:50,281 ERROR 10468 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10468
+hostname: DESKTOP-EKKF5C0
+
+2022-11-27 23:15:56,186 ERROR 10468 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10468
+hostname: DESKTOP-EKKF5C0
+
+2022-11-27 23:16:58,114 ERROR 10468 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10468
+hostname: DESKTOP-EKKF5C0
+
+2022-11-27 23:40:42,998 ERROR 3116 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+errno: -4077
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 3116
+hostname: DESKTOP-EKKF5C0
+=======
+2022-11-25 14:58:28,678 ERROR 2604 nodejs.ClusterClientNoResponseError: client no response in 3953782ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\youpin\youpin_server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 2604
+hostname: DESKTOP-A3915B5
+
+2022-11-25 16:03:14,482 ERROR 2604 nodejs.ClusterClientNoResponseError: client no response in 439755ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\youpin\youpin_server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 2604
+hostname: DESKTOP-A3915B5
+
+2022-11-26 20:27:58,760 ERROR 11044 nodejs.ClusterClientNoResponseError: client no response in 5180541ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\youpin\youpin_server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 11044
+hostname: DESKTOP-A3915B5
+
+2022-11-27 20:58:38,348 ERROR 17924 nodejs.ClusterClientNoResponseError: client no response in 7508307ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\youpin\youpin_server\node_modules\cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 17924
+hostname: DESKTOP-A3915B5
+>>>>>>> 6a8fdadc1582985661a011d08669d6753ce396b1
+
